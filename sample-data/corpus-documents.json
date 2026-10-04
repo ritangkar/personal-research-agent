@@ -1,0 +1,110 @@
+[
+  {
+    "id": "D01",
+    "title": "Four-day pilots report modest productivity gains across pilot cohorts",
+    "source": "Journal of Workplace Studies (synthetic)",
+    "sourceTier": "A",
+    "publishedYear": 2025,
+    "url": "https://example-research.org/jws/four-day-pilot-2025",
+    "body": "Across a multi-employer pilot cohort, output per employee was reported as broadly stable to slightly improved after moving to a four-day week, with participating firms citing fewer low-value meetings as a contributing factor. Results varied considerably by industry, with knowledge-work roles showing the clearest gains and shift-based operations showing little measurable change."
+  },
+  {
+    "id": "D02",
+    "title": "Employee-reported burnout scores fall in shortened-week trial",
+    "source": "Meridian Labor Institute (fictional think tank)",
+    "sourceTier": "A",
+    "publishedYear": 2024,
+    "url": "https://example-research.org/meridian/burnout-trial-2024",
+    "body": "Self-reported burnout and exhaustion scores declined for employees on a compressed four-day schedule compared with a matched five-day control group over a six-month trial period. Sleep quality and reported family time both improved, though the study authors noted the sample was not large enough to generalize across all sectors."
+  },
+  {
+    "id": "D03",
+    "title": "Scheduling complexity remains the top implementation barrier",
+    "source": "Northfield Business Review (fictional)",
+    "sourceTier": "B",
+    "publishedYear": 2024,
+    "url": "https://example-business.example/nbr/scheduling-barrier-2024",
+    "body": "Operations leaders surveyed identified shift-coverage and client-availability scheduling as the most commonly cited obstacle to adopting a four-day week, particularly in customer-facing and healthcare-adjacent roles. Several firms piloted staggered four-day schedules across teams to maintain five-day coverage without extending individual work hours."
+  },
+  {
+    "id": "D04",
+    "title": "Client-facing teams report mixed results on responsiveness",
+    "source": "Northfield Business Review (fictional)",
+    "sourceTier": "B",
+    "publishedYear": 2023,
+    "url": "https://example-business.example/nbr/client-responsiveness-2023",
+    "body": "Firms that moved client-facing teams to a four-day week reported a modest increase in average response time to customer inquiries, which some clients noticed and flagged as a service concern. Firms that staggered days off across the team, rather than closing entirely on the fifth day, did not see the same effect."
+  },
+  {
+    "id": "D05",
+    "title": "Adoption remains concentrated in professional services and tech",
+    "source": "Meridian Labor Institute (fictional think tank)",
+    "sourceTier": "A",
+    "publishedYear": 2026,
+    "url": "https://example-research.org/meridian/adoption-landscape-2026",
+    "body": "Formal four-day-week adoption remains heavily concentrated in professional services, software and marketing firms, with far lower uptake in manufacturing, retail and healthcare. Institute researchers attribute the gap primarily to the difficulty of compressing hours-based or shift-based roles without added scheduling cost."
+  },
+  {
+    "id": "D06",
+    "title": "Retention improves modestly at firms offering a four-day option",
+    "source": "Journal of Workplace Studies (synthetic)",
+    "sourceTier": "A",
+    "publishedYear": 2025,
+    "url": "https://example-research.org/jws/retention-2025",
+    "body": "Firms offering a four-day-week option as part of a flexible-work package reported a small but consistent improvement in voluntary turnover compared with peer firms without the option, controlling for compensation. The effect was strongest among mid-tenure employees rather than new hires."
+  },
+  {
+    "id": "D07",
+    "title": "Cost savings from reduced office overhead are smaller than expected",
+    "source": "FrontierOps Weekly (fictional trade blog)",
+    "sourceTier": "C",
+    "publishedYear": 2023,
+    "url": "https://example-blog.example/frontierops/cost-savings-2023",
+    "body": "Several companies that closed offices on the fifth day expected meaningful facilities savings, but reported the actual reduction in utility and overhead costs was smaller than projected, since most fixed costs like lease payments did not change. Firms that instead rotated closure days saw negligible facilities savings."
+  },
+  {
+    "id": "D08",
+    "title": "Compressed-hours variants show weaker wellbeing gains than reduced-hours variants",
+    "source": "Meridian Labor Institute (fictional think tank)",
+    "sourceTier": "A",
+    "publishedYear": 2024,
+    "url": "https://example-research.org/meridian/compressed-vs-reduced-2024",
+    "body": "Programs that compressed the same total weekly hours into four longer days showed smaller improvements in reported wellbeing than programs that genuinely reduced total hours while keeping daily length the same. Employees on compressed-hours schedules reported higher end-of-day fatigue on working days."
+  },
+  {
+    "id": "D09",
+    "title": "Middle managers report the schedule shift as operationally difficult",
+    "source": "Northfield Business Review (fictional)",
+    "sourceTier": "B",
+    "publishedYear": 2025,
+    "url": "https://example-business.example/nbr/manager-load-2025",
+    "body": "Middle managers surveyed after a four-day-week transition reported higher coordination overhead, citing more effort spent re-scheduling cross-team dependencies and covering for colleagues' days off. Reported manager satisfaction with the policy was lower than individual-contributor satisfaction in the same firms."
+  },
+  {
+    "id": "D10",
+    "title": "Early opinion piece questions long-term sustainability of the trend",
+    "source": "FrontierOps Weekly (fictional trade blog)",
+    "sourceTier": "C",
+    "publishedYear": 2022,
+    "url": "https://example-blog.example/frontierops/sustainability-opinion-2022",
+    "body": "An early opinion piece argued that four-day-week enthusiasm was likely to fade once early-adopter firms faced a tighter economic environment, predicting that headcount growth would slow adoption. The piece was speculative and did not cite pilot data, unlike the later Institute and Journal studies."
+  },
+  {
+    "id": "D11",
+    "title": "Sector-specific pilot in software finds no measurable output loss",
+    "source": "Journal of Workplace Studies (synthetic)",
+    "sourceTier": "A",
+    "publishedYear": 2026,
+    "url": "https://example-research.org/jws/software-pilot-2026",
+    "body": "A sector-specific pilot limited to software engineering teams found no statistically significant change in shipped feature volume after switching to a four-day week, with teams reporting fewer context-switching meetings as the likely offsetting factor. The pilot did not include support or on-call rotations."
+  },
+  {
+    "id": "D12",
+    "title": "Unverified social-media claims of universal productivity gains circulate widely",
+    "source": "Social clip, unverified account (fictional)",
+    "sourceTier": "D",
+    "publishedYear": 2025,
+    "url": "https://example-social.example/post/unverified-claim-2025",
+    "body": "A widely shared social post claimed that every company that tried a four-day week saw productivity 'skyrocket', without citing any study, sample size or methodology. This claim is included in the demo corpus specifically as a low-credibility source, to demonstrate the evaluator down-ranking unverified claims."
+  }
+]

@@ -1,0 +1,31 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: personal-research-agent
+
+research:
+  # Demo mode uses MockSearchTool (bundled synthetic corpus) and DemoLlmClient
+  # (deterministic templated synthesis). No network call and no API key are
+  # ever required for the API to run.
+  llm:
+    enabled: false
+    provider: none          # set to "openai-compatible" to enable the live client
+    # API key is read from the OPENAI_API_KEY environment variable only —
+    # never put it in this file or commit it. See .env.example.
+    base-url: https://api.openai.com/v1
+    model: gpt-4o-mini
+  cache:
+    ttl-seconds: 600
+  evidence:
+    min-score: 0.35
+    max-per-subquestion: 3
+  retry:
+    max-attempts: 3
+    initial-backoff-ms: 100
+
+logging:
+  level:
+    root: INFO
+    com.ritangkar.researchagent: INFO
